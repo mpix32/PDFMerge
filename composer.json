@@ -1,0 +1,13 @@
+{
+    "name": "mpix/pdf-merger",
+    "description": "Package for PDFMerger PHP 7.2",
+    "type": "library",
+    "license": "MIT",
+    "require": {},
+    "minimum-stability":"dev",
+    "autoload":{
+        "psr-0":{
+            "PDFMerger": "PDFMerger.php"
+        }
+    }
+}
