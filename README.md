@@ -7,6 +7,7 @@ Updated by Vasiliy Zaytsev February 2016 vasiliy.zaytsev@ffwagency.com
 - Uses tcpdf 6.2.12 by Nicola Asuni
 - Uses patched tcpdi_parser 1.0 by Paul Nicholls with own TCPdiParserException
 - Uses TCPDI 1.0 by Paul Nicholls with FPDF_TPL extension 1.2.3 by Setasign
+- Update each tcpdi by mpix for PHP 7.2
 
 ## PHP 5 Compatible
 
@@ -14,7 +15,7 @@ I have made some changes in original codes to make PHPMerger compatible for PHP 
 
 - Update
 
-I tested with PHP 7.1 on my local machine and it still works.
+I tested with PHP 7.2 on my local machine and it still works.
 
 ## Support of PDF 1.5 and PDF 1.6
 
